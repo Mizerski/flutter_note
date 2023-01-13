@@ -31,8 +31,7 @@ Note app (Both frontend and backend) created with Flutter and Firebase.
 <img src="https://user-images.githubusercontent.com/38410384/122597737-71023880-d089-11eb-897f-3a0993236281.png" alt="setting" width = "250">
 <img src="https://user-images.githubusercontent.com/38410384/122596214-2a134380-d087-11eb-8836-ccb46aca5b68.png" alt="device setting" width = "250">
   
-<img src="https://user-images.githubusercontent.com/38410384/122597989-d2c2a280-d089-11eb-8cc8-45b807fb51b8.png" alt="device setting" width = "250">
-<img src="https://user-images.githubusercontent.com/38410384/122597732-6f387500-d089-11eb-8417-133f8401cd4b.png" alt="device setting" width = "250">
+
   
 </p>
 
